@@ -8,7 +8,7 @@
 
 ##### 3 BlackHole (with Enterprise)	gif⬇️
 
-![](./imgs/BlackHoleWith Enterprise.gif)
+![](./imgs/BlackHoleWithEnterprise.gif)
 
 ##### 4 Simple AI Game
 
